@@ -1,0 +1,5 @@
+dist: focal
+install: skip
+
+script:
+- uname -a
